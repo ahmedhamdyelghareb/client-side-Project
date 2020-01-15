@@ -1,0 +1,224 @@
+/*body{height:3000px;}*/
+.contaner{
+    width: 1170px;
+    margin:auto;
+}
+.clearfix{clear:both;}
+
+/*header*/
+
+.header .slider{
+    height: 700px;
+    background-image: url(photos/p1.jpg);
+    background-size:cover;
+}
+.header .bg
+{
+    background: rgba(0,0,0,0.3);
+    height:100%;
+}
+
+.header .slider h1{
+    font-size: 100px;
+    margin:0;
+    padding-top: 150px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: "cursive", sans-serif;
+    border-bottom: 2px solid #FFF;
+    color:#FFF;
+    margin-bottom:80px;
+
+
+}
+.header .slider .navebar ul{
+    list-style: none;
+}
+.header .slider .navebar ul li{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    list-style: none;
+    font-size:25px;
+    padding-left: 50;
+    padding-right: 50px;
+    float: left;
+    
+}
+.header .slider .navebar ul li a{
+   color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    font-size: 30px;
+}
+.header .slider .navebar ul li.active a,
+.header .slider .navebar ul li a:hover
+{
+    color: #FFF;
+   
+}
+.header .slider .navebar ul li a:hover
+{
+    
+    border: 1px solid red;
+    width:40px;
+    height:60px;
+    background: red ;
+    border-radius: 15%;
+    box-shadow: 8px 8px 5px rgb(75, 25, 25);
+    
+}
+/*End header*/
+
+
+/*aboutmy*/
+.aboutmy{
+    background-color:#F2F2F2;
+    overflow:hidden;
+    padding:25px;
+    padding-top:80px;
+}
+.aboutmy .image{float: left; width:40%}
+.aboutmy .image img{width:100%;}
+.aboutmy .info{
+    float: left;
+    width:60%;
+}
+.aboutmy .info h2{
+    font-size: 40px;
+    margin:  40px 0px 20px 40px;
+}
+.aboutmy .info h3{
+    color: brown;
+    font-size: 35px;
+    margin:  40px 0px 20px 40px;
+}
+.aboutmy .info p{
+    margin:  0px 0px 10px 40px;
+    line-height:1.7;
+    font-size: 30px;
+    
+}
+
+/*end aboutmy*/
+
+
+
+
+
+/*quotes*/
+.quotes{
+    background-color:#F2F2F2;
+    padding-top:20px;
+    padding-bottom:20px;
+    overflow:hidden;
+    text-align: center;
+        
+}
+.quotes button{
+    background:none;
+    border: 2px solid royalblue;
+    color: royalblue;
+    padding:10px 30px;
+    
+}
+
+
+
+/*exercise*/
+.exercise{
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px;
+    overflow: hidden;
+}
+.choise{
+    transition:all 1s ease-in-out;
+    display: block;
+    position: relative;
+    bottom: 30px;
+    left: 0px;
+}
+
+.exercise .choise>img{
+    height: 670px;
+    filter:grayscale(.1);
+}
+
+/*end exercise*/
+
+/*contactMy*/
+.contactMy{
+    overflow:hidden;
+    background-color:#FFE53A ;
+    color: black;
+}
+.contactMy .info{
+     width: 50%;
+    float: left;
+    /* padding-top: 20px; */
+}
+
+.contactMy .info h2{margin-left: 15px;}
+.contactMy .info p{columns: #000000;margin-left:15px;}
+
+.contactMy .form{
+    width: 50%;
+    float: left;
+}
+.contactMy .form label{
+   display: block; 
+    color: #000000  ;
+    margin: 18px 15px;
+    font-size: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+}
+
+
+.contactMy .form input,
+.contactMy .form textarea
+{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    color:crimson ;
+    border: 0;
+}
+.contactMy  button{
+    background-color: black;
+    display: block;
+    padding: 10px 20px;
+    width: 70%;
+    margin: 10px;
+    color: #FFE53A;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+/*end contactMy*/
+/*footer*/
+.footer{
+background-color: royalblue;
+color:white;
+height: 20px;
+padding-bottom: 20px;
+overflow: hidden
+}
+.footer p{display: inline-block;}
+.footer  ul
+{
+   list-style:none;
+    padding-left:0;
+    overflow: hidden;
+    float:right;
+}
+
+.footer  ul li
+{
+   display: inline-block;
+    padding-right:0px;
+    padding-top:-1px;
+
+}

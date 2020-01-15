@@ -1,0 +1,401 @@
+﻿{
+  "armeasy": [
+    {
+      "src": "./GIF/PushUp.gif",
+      "h3": "PUSH-UPS",
+      "h5": "X5",
+      "helpinfo": "./GIF/pushdesc.png"
+    },
+    {
+      "src": "./GIF/TricepsDips.gif",
+      "h3": "TricepsDips",
+      "h5": "X5",
+      "helpinfo": "./GIF/dipsdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X10",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "src": "./GIF/Plank.gif",
+      "h3": "Plank",
+      "h5": "00:30",
+      "helpinfo": "./GIF/plankdesc.png"
+    },
+    {
+      "l1": "27",
+      "l2": "2-5",
+      "l3": "Easy"
+    }
+  ],
+  "armmedium": [
+    {
+      "src": "./GIF/PushUpRotation.gif",
+      "h3": "PushUpRotation",
+      "h5": "X10",
+      "helpinfo": "./GIF/pushrotationdesc.png"
+    },
+    {
+      "src": "./GIF/TricepsDips.gif",
+      "h3": "TricepsDips",
+      "h5": "X10",
+      "helpinfo": "./GIF/dipsdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X10",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "src": "./GIF/Plank.gif",
+      "h3": "Plank",
+      "h5": "00:30",
+      "helpinfo": "./GIF/plankdesc.png"
+    },
+    {
+      "l1": "41",
+      "l2": "3-5",
+      "l3": "Medium"
+    }
+  ],
+  "armhard": [
+    {
+      "src": "./GIF/PushUp.gif",
+      "h3": "PUSH-UPS",
+      "h5": "X15",
+      "helpinfo": "./GIF/pushdesc.png"
+    },
+    {
+      "src": "./GIF/TricepsDips.gif",
+      "h3": "TricepsDips",
+      "h5": "X15",
+      "helpinfo": "./GIF/dipsdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X26",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "src": "./GIF/Plank.gif",
+      "h3": "Plank",
+      "h5": "00:30",
+      "helpinfo": "./GIF/plankdesc.png"
+    },
+    {
+      "l1": "77",
+      "l2": "5-8",
+      "l3": "Hard"
+    }
+  ],
+  "levelImg": [
+    {
+      "armbg": "./GIF/armbg.png",
+      "absbg": "./GIF/absbg.png",
+      "butt": "./GIF/buttbg.png",
+      "leg": "./GIF/legbg.png"
+    }
+  ],
+  "commonInfo": [
+    {
+      "l1": "KCAL",
+      "l2": "MIN",
+      "l3": "LEVEL"
+    }
+  ],
+  "abseasy": [
+    {
+      "src": "./GIF/sit-up.gif",
+      "h3": "SIT-UPS",
+      "h5": "X14",
+      "helpinfo": "./GIF/sit-updes.png"
+    },
+    {
+      "src": "./GIF/legraises.gif",
+      "h3": "LEG RAISES",
+      "h5": "X10",
+      "helpinfo": "./GIF/legraisedesc.png"
+    },
+    {
+      "src": "./GIF/crunche.gif",
+      "h3": "CRUNCH",
+      "h5": "X8",
+      "helpinfo": "./GIF/longcrunchdesc.png"
+    },
+    {
+      "src": "./GIF/Plank.gif",
+      "h3": "Plank",
+      "h5": "00:30",
+      "helpinfo": "./GIF/plankdesc.png"
+    },
+    {
+      "l1": "32",
+      "l2": "2-4",
+      "l3": "Easy"
+    }
+  ],
+  "absmedium": [
+    {
+      "src": "./GIF/superman.gif",
+      "h3": "SUPER MAN",
+      "h5": "X20",
+      "helpinfo": "./GIF/supermandesc.png"
+    },
+    {
+      "src": "./GIF/crunche.gif",
+      "h3": "CRUNCH",
+      "h5": "X30",
+      "helpinfo": "./GIF/longcrunchdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X10",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "src": "./GIF/legraises.gif",
+      "h3": "LEG RAISES",
+      "h5": "X15",
+      "helpinfo": "./GIF/legraisedesc.png"
+    },
+    {
+      "l1": "84",
+      "l2": "5-8",
+      "l3": "Medium"
+    }
+  ],
+  "abshard": [
+    {
+      "src": "./GIF/bird.gif",
+      "h3": "BIRD-DOG",
+      "h5": "X30",
+      "helpinfo": "./GIF/birddesc.png"
+    },
+    {
+      "src": "./GIF/crunche.gif",
+      "h3": "CRUNCH",
+      "h5": "X30",
+      "helpinfo": "./GIF/longcrunchdesc.png"
+    },
+    {
+      "src": "./GIF/legraises.gif",
+      "h3": "LEG RAISES",
+      "h5": "X25",
+      "helpinfo": "./GIF/legraisedesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X30",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "l1": "120",
+      "l2": "7-10",
+      "l3": "Hard"
+    }
+  ],
+  "butteasy": [
+    {
+      "src": "./GIF/squat.gif",
+      "h3": "SQUAT",
+      "h5": "X15",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/Lunge.gif",
+      "h3": "LUNGE",
+      "h5": "X10",
+      "helpinfo": "./GIF/lungesdesc.png"
+    },
+    {
+      "src": "./GIF/ladder.gif",
+      "h3": "LADDER",
+      "h5": "X10",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/wallsit.gif",
+      "h3": "WALL SIT",
+      "h5": "00:30",
+      "helpinfo": "./GIF/wallsitdesc.png"
+    },
+    {
+      "l1": "37",
+      "l2": "4-6",
+      "l3": "Easy"
+    }
+  ],
+  "buttmedium": [
+    {
+      "src": "./GIF/squat.gif",
+      "h3": "SQUAT",
+      "h5": "X15",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X20",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "src": "./GIF/Lunge.gif",
+      "h3": "LUNGE",
+      "h5": "X10",
+      "helpinfo": "./GIF/lungesdesc.png"
+    },
+    {
+      "src": "./GIF/wallsit.gif",
+      "h3": "WALL SIT",
+      "h5": "00:30",
+      "helpinfo": "./GIF/wallsitdesc.png"
+    },
+    {
+      "l1": "66",
+      "l2": "5-8",
+      "l3": "Medium"
+    }
+  ],
+  "butthard": [
+    {
+      "src": "./GIF/squat.gif",
+      "h3": "SQUAT",
+      "h5": "X40",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/Lunge.gif",
+      "h3": "LUNGE",
+      "h5": "X40",
+      "helpinfo": "./GIF/lungesdesc.png"
+    },
+    {
+      "src": "./GIF/ladder.gif",
+      "h3": "LADDER",
+      "h5": "X20",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X40",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "l1": "110",
+      "l2": "8-12",
+      "l3": "Hard"
+    }
+  ],
+  "legeasy": [
+    {
+      "src": "./GIF/cursty.gif",
+      "h3": "CURSTY",
+      "h5": "X15",
+      "helpinfo": "./GIF/curistydesc.png"
+    },
+    {
+      "src": "./GIF/Lunge.gif",
+      "h3": "LUNGE",
+      "h5": "X10",
+      "helpinfo": "./GIF/lungesdesc.png"
+    },
+    {
+      "src": "./GIF/JumpJack.gif",
+      "h3": "JUMPJACK",
+      "h5": "X20",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/wallsit.gif",
+      "h3": "WALL SIT",
+      "h5": "00:30",
+      "helpinfo": "./GIF/wallsitdesc.png"
+    },
+    {
+      "l1": "29",
+      "l2": "4-6",
+      "l3": "Easy"
+    }
+  ],
+  "legmedium": [
+    {
+      "src": "./GIF/squat.gif",
+      "h3": "SQUAT",
+      "h5": "X30",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X20",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "src": "./GIF/Lunge.gif",
+      "h3": "LUNGE",
+      "h5": "X30",
+      "helpinfo": "./GIF/lungesdesc.png"
+    },
+    {
+      "src": "./GIF/JumpJack.gif",
+      "h3": "JUMPJACK",
+      "h5": "X30",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "l1": "57",
+      "l2": "5-8",
+      "l3": "Medium"
+    }
+  ],
+  "leghard": [
+    {
+      "src": "./GIF/leg.gif",
+      "h3": "LEG KICK",
+      "h5": "X40",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/Lunge.gif",
+      "h3": "LUNGE",
+      "h5": "X40",
+      "helpinfo": "./GIF/lungesdesc.png"
+    },
+    {
+      "src": "./GIF/ladder.gif",
+      "h3": "LADDER",
+      "h5": "X20",
+      "helpinfo": "./GIF/squatsdesc.png"
+    },
+    {
+      "src": "./GIF/MountainClimber.gif",
+      "h3": "MountainClimber",
+      "h5": "X40",
+      "helpinfo": "./GIF/climberdesc.png"
+    },
+    {
+      "l1": "131",
+      "l2": "10-16",
+      "l3": "Hard"
+    }
+  ],
+  "finish": [
+    {
+      "src": "./GIF/celbrate.png"
+    }
+  ],
+  "Levels": [
+    {
+      "level1": "Easy",
+      "level2": "Medium",
+      "level3": "Hard"
+    }
+  ]
+}
